@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Products";
+}
+
+@model List<Product>
+
+<style>
+    tbody tr td{
+        vertical-align: middle;
+    }
+
+    tbody tr:last-child td:first-child {
+        border-bottom-left-radius: 10px;
+    }
+
+    tbody tr:last-child td:last-child {
+        border-bottom-right-radius: 10px;
+    }
+
+    tbody tr td:last-child {
+        text-align: center;
+    }
+
+    .dt-length label {
+        padding-left: 10px;
+    }
+
+    .form-container{
+        color: black;   
+    }
+</style>
+
+
+<div class="card shadow border-1 my-4">
+    <div class="card-header bg-dark bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-light fw-bold">Products List</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body p-4">
+        <div class="row pb-3">
+            <div class="col-6">
+            </div>
+            <div class="col-6 text-end">
+                <a asp-controller="Products" asp-action="Upsert" class="btn btn-dark">
+                    <i class="bi bi-plus-circle"></i>  Create New Product
+                </a>
+            </div>
+        </div>
+        <div class="form-container">
+            <table id="productTblData" class="table table-sm text-wrap table-bordered table-striped table-hover justify-content-center table-responsive rounded-3" style="border: 1px #CED4DA;">
+                <thead>
+                    <tr>
+                        <th class="align-middle p-3" style="text-align:center; border-top-left-radius: 10px;">
+                            Title
+                        </th>
+                        <th class="align-middle p-3" style="text-align:center;">
+                            ISBN
+                        </th>
+                        <th class="align-middle p-3" style="text-align:center;">
+                            Price
+                        </th>
+                        <th class="align-middle p-3" style="text-align:center;">
+                            Author
+                        </th>
+                        <th class="align-middle p-3" style="text-align:center;">
+                            Category
+                        </th>
+                        <th style ="border-top-right-radius: 10px;">
+
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/products.js"></script>
+}

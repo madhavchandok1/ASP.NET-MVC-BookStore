@@ -1,0 +1,13 @@
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\bin\Debug\net8.0\BookStore.Utilities.deps.json
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\bin\Debug\net8.0\BookStore.Utilities.dll
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\bin\Debug\net8.0\BookStore.Utilities.pdb
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.AssemblyInfoInputs.cache
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.AssemblyInfo.cs
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.sourcelink.json
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.dll
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\refint\BookStore.Utilities.dll
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.pdb
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\ref\BookStore.Utilities.dll
+C:\Users\MadhavChandok\OneDrive - Celebal Technologies Private Limited\Desktop\L&D\.NET MVC\.NET8\BookStore\BooksStoreWeb\BookStore.Utilities\obj\Debug\net8.0\BookStore.Utilities.csproj.AssemblyReference.cache

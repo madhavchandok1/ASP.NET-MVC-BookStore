@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore\\BookStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.DataAccessLayer\\BookStore.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.DataAccessLayer\\BookStore.DataAccessLayer.csproj",
+        "projectName": "BookStore.DataAccessLayer",
+        "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.DataAccessLayer\\BookStore.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\MadhavChandok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MadhavChandok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\BookStore.Models.csproj": {
+                "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\BookStore.Models.csproj"
+              },
+              "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\BookStore.Utilities.csproj": {
+                "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\BookStore.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\BookStore.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\BookStore.Models.csproj",
+        "projectName": "BookStore.Models",
+        "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\BookStore.Models.csproj",
+        "packagesPath": "C:\\Users\\MadhavChandok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MadhavChandok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\BookStore.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\BookStore.Utilities.csproj",
+        "projectName": "BookStore.Utilities",
+        "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\BookStore.Utilities.csproj",
+        "packagesPath": "C:\\Users\\MadhavChandok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MadhavChandok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore\\BookStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore\\BookStore.csproj",
+        "projectName": "BookStore",
+        "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore\\BookStore.csproj",
+        "packagesPath": "C:\\Users\\MadhavChandok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MadhavChandok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.DataAccessLayer\\BookStore.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.DataAccessLayer\\BookStore.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\BookStore.Models.csproj": {
+                "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Models\\BookStore.Models.csproj"
+              },
+              "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\BookStore.Utilities.csproj": {
+                "projectPath": "C:\\Users\\MadhavChandok\\OneDrive - Celebal Technologies Private Limited\\Desktop\\L&D\\.NET MVC\\.NET8\\BookStore\\BooksStoreWeb\\BookStore.Utilities\\BookStore.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
